@@ -1,4 +1,7 @@
 # :cloud: CloudChan :cloud:
+
+This is a directory of the micro-services that support CloudChan.
+
 ## Roster
 ### [Alpha](https://github.com/DangerN/cc-alpha)
 Library for handling models.
