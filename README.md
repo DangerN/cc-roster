@@ -10,6 +10,7 @@ Library for handling models.
 
 ### [Bravo](https://github.com/DangerN/cc-bravo)
 Serves the CloudChan interface.
+[![Build Status](https://travis-ci.com/DangerN/cc-bravo.svg?branch=master)](https://travis-ci.com/DangerN/cc-bravo)
 
 ### [Charlie](https://github.com/DangerN/cc-charlie)
 Serves read only API endpoints and listens for updates from Delta.
