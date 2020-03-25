@@ -3,14 +3,14 @@
 This is a directory of the micro-services that support CloudChan.
 
 ## Roster
-### [Alpha](https://github.com/DangerN/cc-alpha)
+### [Alpha](https://github.com/DangerN/cc-alpha) [![Build Status](https://travis-ci.com/DangerN/cc-alpha.svg?branch=master)](https://travis-ci.com/DangerN/cc-alpha) [![GitHub release](https://img.shields.io/github/release/DangerN/cc-alpha.svg)](https://github.com/DangerN/cc-alpha/releases)
 Library for handling models.
-[![GitHub release](https://img.shields.io/github/release/DangerN/cc-alpha.svg)](https://github.com/DangerN/cc-alpha/releases)
-[![Build Status](https://travis-ci.com/DangerN/cc-alpha.svg?branch=master)](https://travis-ci.com/DangerN/cc-alpha)
 
-### [Bravo](https://github.com/DangerN/cc-bravo)
+
+
+### [Bravo](https://github.com/DangerN/cc-bravo) [![Build Status](https://travis-ci.com/DangerN/cc-bravo.svg?branch=master)](https://travis-ci.com/DangerN/cc-bravo)
 Serves the CloudChan interface.
-[![Build Status](https://travis-ci.com/DangerN/cc-bravo.svg?branch=master)](https://travis-ci.com/DangerN/cc-bravo)
+
 
 ### [Charlie](https://github.com/DangerN/cc-charlie)
 Serves read only API endpoints and listens for updates from Delta.
