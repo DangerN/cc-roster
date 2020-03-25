@@ -5,6 +5,8 @@ This is a directory of the micro-services that support CloudChan.
 ## Roster
 ### [Alpha](https://github.com/DangerN/cc-alpha)
 Library for handling models.
+[![GitHub release](https://img.shields.io/github/release/DangerN/cc-alpha.svg)](https://github.com/DangerN/cc-alpha/releases)
+[![Build Status](https://travis-ci.com/DangerN/cc-alpha.svg?branch=master)](https://travis-ci.com/DangerN/cc-alpha)
 
 ### [Bravo](https://github.com/DangerN/cc-bravo)
 Serves the CloudChan interface.
